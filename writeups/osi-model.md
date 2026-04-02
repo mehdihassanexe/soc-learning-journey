@@ -61,6 +61,3 @@
   
 ---
 **Status:** 🔁 Needs Review
-
-Just say:
-**“diagram” / “next topic” / “test me”**
