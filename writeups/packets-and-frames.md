@@ -22,7 +22,7 @@ Data doesn’t travel as one big chunk — it’s broken down into:
 - Uses MAC Addresses (physical address)
 - Works within a LAN (Local Network)
 - Includes Error Checking (CRC)
-- ❗ Stops at the Router
+- Stops at the Router
 
 ---
 
