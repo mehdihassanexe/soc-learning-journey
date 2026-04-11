@@ -35,7 +35,7 @@ Self-taught via TryHackMe | Lahore, Pakistan
 
 ---
 
-**Last Updated:** April 2026
+**Last Updated:** 12 April 2026
 
 Feel free to connect with me:
 - Email: mehdihassan.exe@proton.me
