@@ -4,10 +4,10 @@ Aspiring **Junior SOC Analyst** | Blue Team Focus
 Self-taught via TryHackMe | Lahore, Pakistan
 
 ## About Me
-- Currently learning cybersecurity fundamentals with focus on defensive security (Blue Team)
-- Building strong foundation in networking, operating systems, web technologies, and log analysis
-- Actively creating write-ups to solidify concepts and track progress
-- Background: Python/Django
+- Currently building a strong foundation in defensive security (Blue Team)
+- Actively learning networking, Linux, web technologies, and log analysis
+- Creating detailed write-ups to solidify concepts and track progress
+- Background in Python/Django development
 
 ## Learning Progress
 
@@ -16,28 +16,32 @@ Self-taught via TryHackMe | Lahore, Pakistan
 - [Packets & Frames](writeups/packets-and-frames.md)
 - [IP Addressing & Subnetting](writeups/ip-addressing-subnetting.md)
 - [TCP vs UDP](writeups/tcp-vs-udp.md)
+- [CIA Triad](writeups/cia-triad.md)
+- [DNS in Detail](writeups/dns.md))
+- [OSI Model](writeups/osi-model.md))
+- [Linux Permissions](writeups/linux-permissions.md)
 
 **In Progress:**
-- DNS in Detail
-- OSI Model
-
-## Goals
-- Complete TryHackMe "Cyber Security Learning" path
-- Earn ISC2 Certified in Cybersecurity (CC)
-- Build practical skills in log analysis, SIEM, and incident response
-- Land first Junior SOC / Security Analyst role
-
-## Skills Building
-- Networking Fundamentals (OSI, TCP/IP, DNS, Packets)
-- Linux Basics
-- Web Technologies (HTTP)
-- Python scripting (in progress)
+- Become Defender
 
 ## Certifications
-- TryHackMe Pre Security Certificate (Completed 19 April 2026)
+- **TryHackMe Pre Security Certificate** (Completed April 2026)
+
+## Goals
+- Complete SOC Level 1 path on TryHackMe
+- Earn ISC2 Certified in Cybersecurity (CC)
+- Develop practical skills in log analysis, SIEM, and incident response
+- Secure first Junior SOC Analyst role
+
+## Skills Building
+- Networking Fundamentals (OSI, TCP/IP, DNS, Packets & Frames)
+- Linux Basics & Permissions
+- Web Technologies (HTTP)
+- Python Scripting
+
 ---
 
 **Last Updated:** 19 April 2026
 
-Feel free to connect with me:
-- Email: mehdihassan.exe@proton.me
+Feel free to connect with me:  
+**Email:** mehdihassan.exe@proton.me
