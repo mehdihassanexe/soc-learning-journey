@@ -17,8 +17,8 @@ Self-taught via TryHackMe | Lahore, Pakistan
 - [IP Addressing & Subnetting](writeups/ip-addressing-subnetting.md)
 - [TCP vs UDP](writeups/tcp-vs-udp.md)
 - [CIA Triad](writeups/cia-triad.md)
-- [DNS in Detail](writeups/dns.md))
-- [OSI Model](writeups/osi-model.md))
+- [DNS in Detail](writeups/dns.md)
+- [OSI Model](writeups/osi-model.md)
 - [Linux Permissions](writeups/linux-permissions.md)
 
 **In Progress:**
