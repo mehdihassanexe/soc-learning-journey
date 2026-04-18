@@ -33,9 +33,11 @@ Self-taught via TryHackMe | Lahore, Pakistan
 - Web Technologies (HTTP)
 - Python scripting (in progress)
 
+## Certifications
+- TryHackMe Pre Security Certificate (Completed 19 April 2026)
 ---
 
-**Last Updated:** 12 April 2026
+**Last Updated:** 19 April 2026
 
 Feel free to connect with me:
 - Email: mehdihassan.exe@proton.me
