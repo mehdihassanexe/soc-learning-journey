@@ -26,7 +26,7 @@ Self-taught via TryHackMe | Lahore, Pakistan
 ## Certifications
 - **TryHackMe Pre Security Certificate** (Completed 19 April 2026)
 
-<image-card alt="Pre Security Certificate" src="pre-security-certificate.png" ></image-card>
+<image-card alt="Pre Security Certificate" src="Pre-Security-Certificate.png" ></image-card>
 
 ## Goals
 - Complete SOC Level 1 path on TryHackMe
