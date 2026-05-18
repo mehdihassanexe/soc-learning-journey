@@ -97,7 +97,26 @@ Recursive search:
 ```powershell
 Get-ChildItem .\writeups -Recurse -Filter *.md | Select-String "CIA"
 ```
+---
 
+## 🧠 Systems & Network Information
+
+Retrieve comprehensive system information:
+```powershell
+Get-ComputerInfo
+```
+Lists all the local user accounts on the system:
+```powershell
+Get-LocalUser
+```
+Retrieve detailed information about the network interfaces on the system, including IP addresses, DNS servers, and gateway configurations:
+```powershell
+Get-NetIPConfiguration
+```
+Retrieve details for all IP addresses configured on the system, including those that are not currently active.
+```powershell
+Get-NetIPAddress
+```
 ---
 
 ## 📌 Notes
