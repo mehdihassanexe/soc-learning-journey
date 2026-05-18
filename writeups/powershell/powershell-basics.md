@@ -1,7 +1,9 @@
-````
 # PowerShell Practice Notes
 
-This document contains basic PowerShell commands practiced for file navigation, filtering, and searching.
+**Room:** PowerShell
+**Path:** CyberSecurity 101/Command Line 
+**Date:** 19 May 2026  
+**Difficulty:** Easy
 
 ---
 
@@ -131,7 +133,7 @@ Get-NetIPAddress
 
 ## 🚀 Summary
 
-These commands cover basic file navigation, filtering, and searching in PowerShell for beginners.
+These commands cover basic file navigation, filtering, searching & retrieving system/network info in PowerShell for beginners.
 
 ```.
 ```
